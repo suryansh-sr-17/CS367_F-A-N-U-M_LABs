@@ -11,8 +11,8 @@ Welcome to the repository for the AI Course (CS367) lab assignments, created by 
 5. Lab 5 📈
 6. Lab Report 📄
 
-# 📄 Lab Reports
-The repository includes a detailed lab report, explaining the problem, approach, and analysis. The reports contain visualizations, performance metrics, and conclusions drawn from the lab results, helping you understand the AI problem statements solved and implemented. 📊
+# 📄 Lab Report
+The repository includes a detailed lab report, explaining the problem, approach, and analysis. The report contains visualizations, performance metrics, and conclusions drawn from the lab results, helping you understand the AI problem statements solved and implemented. 📊
 
 # 💻 Requirements
 Each lab may have specific dependencies, but the general requirements include:
