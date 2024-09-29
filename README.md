@@ -1,14 +1,15 @@
 
-# 🧠 AI Course Labs - CS367 by F A N U M
+# 🧠 AI Course Labs - CS367 by F A N U M 💫
 ____________________________________________________________________________
 Welcome to the repository for the AI Course (CS367) lab assignments, created by Team F A N U M! This repository contains the codes and lab reports for the labs conducted, covering core AI concepts and algorithms. 🚀
 
-# 📝 Lab Details
+# 📝 Lab Details:
 1. Lab 1 🔍
 2. Lab 2 🤖
 3. Lab 3 🧑‍💻
 4. Lab 4 🎮
 5. Lab 5 📈
+6. Lab Report 📄
 
 # 📄 Lab Reports
 The repository includes a detailed lab report, explaining the problem, approach, and analysis. The reports contain visualizations, performance metrics, and conclusions drawn from the lab results, helping you understand the AI problem statements solved and implemented. 📊
