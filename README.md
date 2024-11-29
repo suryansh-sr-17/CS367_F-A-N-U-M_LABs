@@ -9,8 +9,10 @@ Welcome to the repository for the AI Course (CS367) lab assignments, created by 
 3. Lab 3 🧑‍💻
 4. Lab 4 🎮
 5. Lab 5 📈
-6. Lab 7 🪙
-7. Lab Report 📄
+6. Lab 6 🤯
+7. Lab 7 🪙
+8. Lab 8 🚲
+9. Lab Report 📄
 
 # 📄 Lab Report
 The repository includes a detailed lab report, explaining the problem, approach, and analysis. The report contains visualizations, performance metrics, and conclusions drawn from the lab results, helping you understand the AI problem statements solved and implemented. 📊
